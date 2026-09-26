@@ -1,31 +1,51 @@
-# accidentable
+<div align="center">
 
-컴퓨터공학과 4학년. 해커톤 14회.
-이슈를 빠르게 서비스로 만들고, 만든 것을 다시 설명할 수 있게 정리합니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=accidentable&fontSize=56&fontColor=ffffff&desc=build%20fast%20%C2%B7%20write%20it%20down%20%C2%B7%20keep%20what%20matters&descAlignY=72&descSize=18&animation=fadeIn" width="100%"/>
 
-## Projects
+### PROFILE 📍
 
-| 프로젝트 | 한 줄 | 결과 | 스택 |
-|---|---|---|---|
-| [타코 트럼프](https://github.com/accidentable/tacotrump) | 시장 지표 6개로 트럼프 정책 번복 가능성을 점수화한 웹 서비스 | 2시간 제작 → 3주 운영, 방문자 56,253명, [KPI뉴스 보도](https://m.kpinews.kr/newsView/1065595079655327) | React · Python Serverless · Redis · Web Push |
-| [My_WIKI](https://github.com/accidentable/My_WIKI) | 해커톤 경험을 LLM이 규칙대로 위키로 정리하는 저장소 · [사이트](https://hackathon-wiki-rho.vercel.app/) | 프로젝트 14 · 개념 49 · 교훈 4, 두 층 점검 CI | Markdown · Python · GitHub Actions · Claude Code / Codex |
-| [SabonX](https://github.com/accidentable/Trust404_th) | DID·VC로 신분증 사본 없이 급여 확인을 잇는 프로토타입 · [데모](https://211-233-200-43.nip.io/) | TRUST404 Track 02 제출, 심사 중 | TypeScript · Express · SD-JWT · Solidity |
+<a href="https://github.com/accidentable"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hackathon-wiki-rho.vercel.app/"><img src="https://img.shields.io/badge/WIKI%20SITE-1769ff?style=for-the-badge&logo=bookstack&logoColor=white"/></a>
 
-세 프로젝트의 순서가 곧 흐름입니다. AI로 빠르게 만들어 사용자에게 전달했고, 쌓인 경험을 내 판단으로 정리하려 했고, 무엇을 넘기고 무엇을 남길지 고민했습니다.
+### PROJECTS 🧩
 
-## By Field
+<a href="https://github.com/accidentable/tacotrump"><img src="https://img.shields.io/badge/🌮%20TACO%20TRUMP-F04452?style=for-the-badge"/></a>
+<a href="https://github.com/accidentable/My_WIKI"><img src="https://img.shields.io/badge/📚%20MY%20WIKI-3CD5AF?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/accidentable/Trust404_th"><img src="https://img.shields.io/badge/🪪%20SABONX-627EEA?style=for-the-badge"/></a>
 
-| 분야 | 프로젝트 |
-|---|---|
-| 블록체인 · 신원 | SabonX · Memory Market (Blockthon 2026) · Ko-Walk (하나금융 AR) · [Aptos 시각화](https://github.com/accidentable/Aptos_visualization) · [Mantle](https://github.com/accidentable/One-Percent-Mantle) |
-| LLM · 에이전트 | My_WIKI · [구독컷](https://github.com/accidentable/Finance_AI) (금융 AI Challenge) · [컴플라이언스렌즈](https://github.com/accidentable/my-hack) (JB금융) · 공시 Agent (미래에셋) · FRAME (원티드) · [FRED 채팅](https://github.com/accidentable/FRED-) |
-| 데이터 분석 · 금융 | 유행 리스크 조기경보 (BC카드) · 끝물레이더 (뉴스빅데이터) · MA5 자동매매 봇 (한투 OpenAPI) · [K-리그 AI](https://github.com/accidentable/K-league-Hackathon) |
-| 웹 · 앱 | 타코 트럼프 · Smash Lab (원티드 해커톤) |
+| | | |
+|:---:|:---|:---|
+| 🌮 | **타코 트럼프** | 시장 지표 6개로 트럼프 정책 번복 가능성을 점수화 · 3주 방문자 56,253명 · [KPI뉴스](https://m.kpinews.kr/newsView/1065595079655327) |
+| 📚 | **My_WIKI** | 해커톤 자료를 LLM이 위키로 정리 · 프로젝트 14 / 개념 49 · 면접 노트 사이트 |
+| 🪪 | **SabonX** | 신분증 사본 없이 DID·VC로 급여 확인 · TRUST404 Track 02 · [데모](https://211-233-200-43.nip.io/) |
 
-링크가 없는 항목은 팀 저장소이거나 코드가 로컬에만 있습니다. 각 프로젝트의 문제, 선택, 한계는 [위키 사이트](https://hackathon-wiki-rho.vercel.app/)에 정리되어 있습니다.
+<br/>
 
-## How I Work
+### 💡 What I've Used 💡
 
-- 코드 대부분을 AI와 같이 씁니다. 무엇을 결정했고 무엇을 맡겼는지 README에 나눠 적습니다.
-- 빠르게 배포한 뒤 어긋난 것을 숨기지 않고 한계로 남깁니다.
-- 원자료가 조심스럽게 쓴 것을 확정적으로 바꾸지 않습니다.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white"/> <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white"/> <img src="https://img.shields.io/badge/DID%20%2F%20VC-1769ff?style=for-the-badge"/>
+
+### 🛠️ Tools 🛠️
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/>
+
+### 🌲 Github Stats 🌲
+
+<img src="https://github-readme-stats.vercel.app/api?username=accidentable&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accidentable&layout=compact&hide_border=true&langs_count=8" height="165"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+</div>
