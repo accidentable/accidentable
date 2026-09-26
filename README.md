@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=accidentable&fontSize=56&fontColor=ffffff&desc=build%20fast%20%C2%B7%20write%20it%20down%20%C2%B7%20keep%20what%20matters&descAlignY=72&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=accidentable&fontSize=56&fontColor=ffffff&desc=markets%20%C2%B7%20APIs%20%C2%B7%20build%20fast%20%C2%B7%20write%20it%20down&descAlignY=72&descSize=18&animation=fadeIn" width="100%"/>
 
 ### PROFILE 📍
 
@@ -9,14 +9,18 @@
 
 ### PROJECTS 🧩
 
+<a href="https://github.com/accidentable/kis-ma5-bot"><img src="https://img.shields.io/badge/📈%20KIS%20MA5%20BOT-1E3A8A?style=for-the-badge"/></a>
 <a href="https://github.com/accidentable/tacotrump"><img src="https://img.shields.io/badge/🌮%20TACO%20TRUMP-F04452?style=for-the-badge"/></a>
+<a href="https://github.com/accidentable/FRED-"><img src="https://img.shields.io/badge/📊%20FRED%20CHAT-0B7285?style=for-the-badge"/></a>
 <a href="https://github.com/accidentable/My_WIKI"><img src="https://img.shields.io/badge/📚%20MY%20WIKI-3CD5AF?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/accidentable/Trust404_th"><img src="https://img.shields.io/badge/🪪%20SABONX-627EEA?style=for-the-badge"/></a>
 
 | | | |
 |:---:|:---|:---|
+| 📈 | **KIS MA5 Bot** | 한투 OpenAPI 실전 계좌 자동매매 · 5일선 돌파 장중 판정 · 텔레그램 운영 · [저장소](https://github.com/accidentable/kis-ma5-bot) |
 | 🌮 | **타코 트럼프** | 시장 지표 6개로 트럼프 정책 번복 가능성을 점수화 · 3주 방문자 56,253명 · [KPI뉴스](https://m.kpinews.kr/newsView/1065595079655327) |
-| 📚 | **My_WIKI** | 해커톤 자료를 LLM이 위키로 정리 · 프로젝트 14 / 개념 49 · 면접 노트 사이트 |
+| 📊 | **FRED 채팅** | 원하는 FRED 경제 지표를 채팅으로 한눈에 · [저장소](https://github.com/accidentable/FRED-) |
+| 📚 | **My_WIKI** | 해커톤 자료를 LLM이 위키로 정리 · 프로젝트 14 / 개념 49 · [면접 노트 사이트](https://hackathon-wiki-rho.vercel.app/) |
 | 🪪 | **SabonX** | 신분증 사본 없이 DID·VC로 급여 확인 · TRUST404 Track 02 · [데모](https://211-233-200-43.nip.io/) |
 
 <br/>
