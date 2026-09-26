@@ -43,8 +43,10 @@
 
 ### 🌲 Github Stats 🌲
 
-<img src="https://github-readme-stats.vercel.app/api?username=accidentable&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accidentable&layout=compact&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=accidentable&theme=default" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=accidentable&theme=default" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=accidentable&hide_border=true" height="180"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
